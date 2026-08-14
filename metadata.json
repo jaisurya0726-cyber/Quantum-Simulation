@@ -1,0 +1,6 @@
+{
+  "name": "3D Quantum Computer Simulation",
+  "description": "Interactive 3D simulation and educational digital twin of a superconducting quantum computer and dilution refrigerator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
